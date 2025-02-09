@@ -81,13 +81,13 @@
   <h4 align="center">LED Verde Ligado</h4>
 
   <p align="center">
-  <img src="https://github.com/MarianaBarretto/Comunicacao-Serial-/blob/feature/projeto/LED%20Verde%20Ligado.jpeg" alt="LED Verde Ligado" />
+  <img src="https://github.com/MarianaBarretto/Comunicacao-Serial/blob/feature/projeto/Imagens/LED%20Verde%20Ligado.jpeg" alt="LED Verde Ligado" />
   </p>
 
  <h4 align="center">LED Verde Desligado</h4>
  
   <p align="center">
-  <img src="https://github.com/MarianaBarretto/Comunicacao-Serial-/blob/feature/projeto/LED%20Verde%20Desligado.jpeg" alt="LED Verde Desligado" />
+  <img src="https://github.com/MarianaBarretto/Comunicacao-Serial/blob/feature/projeto/Imagens/LED%20Verde%20Desligado.jpeg" alt="LED Verde Desligado" />
   </p>
 
   <h4 align="center">LED Azul Ligado</h4>
@@ -99,19 +99,19 @@
  <h4 align="center">LED Azul Desligado</h4>
 
   <p align="center">
-  <img src="https://github.com/MarianaBarretto/Comunicacao-Serial-/blob/feature/projeto/LED%20Azul%20Desligado.jpeg" alt="LED Azul Desligado" />
+  <img src="https://github.com/MarianaBarretto/Comunicacao-Serial/blob/feature/projeto/Imagens/LED%20Azul%20Desligado.jpeg" alt="LED Azul Desligado" />
   </p>
 
   <h4 align="center">Número sendo Exibido</h4>
 
   <p align="center">
-  <img src="https://github.com/MarianaBarretto/Comunicacao-Serial-/blob/feature/projeto/N%C3%BAmero%20sendo%20exibido.jpeg" alt="LED Azul Desligado" />
+  <img src="https://github.com/MarianaBarretto/Comunicacao-Serial/blob/feature/projeto/Imagens/N%C3%BAmero%20sendo%20exibido.jpeg" alt="LED Azul Desligado" />
   </p>
   
   <h4 align="center">>Serial Monitor</h4>
 
   <p align="center">
-  <img src="https://github.com/MarianaBarretto/Comunicacao-Serial-/blob/feature/projeto/Serial%20Monitor.jpeg" alt="LED Azul Desligado" />
+  <img src="https://github.com/MarianaBarretto/Comunicacao-Serial/blob/feature/projeto/Imagens/Serial%20Monitor.jpegeg" alt="LED Azul Desligado" />
   </p>
   
  

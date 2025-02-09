@@ -76,11 +76,46 @@
     - <strong><code>main()</code></strong>: Configura e inicia o sistema.
 </p>
 
- <h2>Imagem</h2>
-   
-  ![projeto](https://github.com/MarianaBarretto/Controle-Matriz-Leds-5x5/blob/feature/matriz-leds/imagem.jpg) 
+ <h2>Imagens</h2>
+  
+  <h4 align="center">LED Verde Ligado</h4>
 
-  <h2>Link do Vídeo do Projeto</h2>
+  <p align="center">
+  <img src="https://github.com/MarianaBarretto/Comunicacao-Serial-/blob/feature/projeto/LED%20Verde%20Ligado.jpeg" alt="LED Verde Ligado" />
+  </p>
+
+ <h4 align="center">LED Verde Desligado</h4>
+ 
+  <p align="center">
+  <img src="https://github.com/MarianaBarretto/Comunicacao-Serial-/blob/feature/projeto/LED%20Verde%20Desligado.jpeg" alt="LED Verde Desligado" />
+  </p>
+
+  <h4 align="center">LED Azul Ligado</h4>
+
+  <p align="center">
+  <img src="https://github.com/MarianaBarretto/Comunicacao-Serial-/blob/feature/projeto/LED%20Azul%20Ligado.jpeg" alt="LED Azul Ligado" />
+  </p>
+
+ <h4 align="center">LED Azul Desligado</h4>
+
+  <p align="center">
+  <img src="https://github.com/MarianaBarretto/Comunicacao-Serial-/blob/feature/projeto/LED%20Azul%20Desligado.jpeg" alt="LED Azul Desligado" />
+  </p>
+
+  <h4 align="center">Número sendo Exibido</h4>
+
+  <p align="center">
+  <img src="https://github.com/MarianaBarretto/Comunicacao-Serial-/blob/feature/projeto/N%C3%BAmero%20sendo%20exibido.jpeg" alt="LED Azul Desligado" />
+  </p>
+  
+  <h4 align="center">>Serial Monitor</h4>
+
+  <p align="center">
+  <img src="https://github.com/MarianaBarretto/Comunicacao-Serial-/blob/feature/projeto/Serial%20Monitor.jpeg" alt="LED Azul Desligado" />
+  </p>
+  
+ 
+<h2>Link do Vídeo do Projeto</h2>
 
 <h3>Vídeo de Demostração</h3>
 

@@ -205,7 +205,7 @@ static void gpio_irq_handler(uint gpio, uint32_t events) {
             // Inverte o estado do LED azul ao pressionar o botão B
             gpio_put(LED_PIN_BLUE, !gpio_get(LED_PIN_BLUE));
             estado_led_azul = gpio_get(LED_PIN_BLUE);
-            printf("Botão A pressionado! LED Azul %s\n", estado_led_azul ? "Ligado" : "Desligado");
+            printf("Botão B pressionado! LED Azul %s\n", estado_led_azul ? "Ligado" : "Desligado");
             
             // Atualiza o display OLED com a mensagem sobre o estado do LED azul
             if (gpio_get(LED_PIN_BLUE)) {

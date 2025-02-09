@@ -111,7 +111,7 @@
   <h4 align="center">>Serial Monitor</h4>
 
   <p align="center">
-  <img src="https://github.com/MarianaBarretto/Comunicacao-Serial/blob/feature/projeto/Imagens/Serial%20Monitor.jpegeg" alt="LED Azul Desligado" />
+  <img src="https://github.com/MarianaBarretto/Comunicacao-Serial/blob/feature/projeto/Imagens/Serial%20Monitor.jpeg" alt="LED Azul Desligado" />
   </p>
   
  

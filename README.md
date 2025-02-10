@@ -93,7 +93,7 @@
   <h4 align="center">LED Azul Ligado</h4>
 
   <p align="center">
-  <img src="https://github.com/MarianaBarretto/Comunicacao-Serial-/blob/feature/projeto/LED%20Azul%20Ligado.jpeg" alt="LED Azul Ligado" />
+  <img src="https://github.com/MarianaBarretto/Comunicacao-Serial/blob/feature/projeto/Imagens/LED%20Azul%20Ligado.jpeg" alt="LED Azul Ligado" />
   </p>
 
  <h4 align="center">LED Azul Desligado</h4>
